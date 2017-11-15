@@ -1,0 +1,5 @@
+E:\GitHub\ClientSideRepo\MyShop2\MyShop2\MyShop2.Core\bin\Debug\MyShop2.Core.dll
+E:\GitHub\ClientSideRepo\MyShop2\MyShop2\MyShop2.Core\bin\Debug\MyShop2.Core.pdb
+E:\GitHub\ClientSideRepo\MyShop2\MyShop2\MyShop2.Core\obj\Debug\MyShop2.Core.csprojResolveAssemblyReference.cache
+E:\GitHub\ClientSideRepo\MyShop2\MyShop2\MyShop2.Core\obj\Debug\MyShop2.Core.dll
+E:\GitHub\ClientSideRepo\MyShop2\MyShop2\MyShop2.Core\obj\Debug\MyShop2.Core.pdb
